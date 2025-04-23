@@ -9,7 +9,6 @@ This website hosts my tenure evaluation materials for my tenure application at S
 - [Research Statement](/assets/research.pdf)
 - [Teaching Statement](/assets/teaching.pdf)
 - [Goals](/assets/goals.pdf)
-- [Goals](/assets/goals.pdf)
 
 ## Significant Papers
 
